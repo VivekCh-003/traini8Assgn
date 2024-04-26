@@ -11,7 +11,7 @@ MySQL password = root
 MySQL port = 3306   
 MySQL database = traini8  
 
-The application will be accessible at - http://localhost:8080/swagger-ui/index.html  
+After running the application it will be accessible at - http://localhost:8080/swagger-ui/index.html  
 
 Endpoints:   
 	1. POST localhost:8080/saveTrainingCenter   
